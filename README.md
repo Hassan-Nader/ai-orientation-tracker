@@ -51,13 +51,13 @@ Predicted orientation closely matched measured hardware response.
 
 Visuals and plots available in /results/.
 
-🧾 Repository Structure
-ai-orientation-tracker/
-│
-├── docs/                     # Documentation (methodology, model comparison)
-├── results/                  # Visuals, performance summaries
-├── media/                    # Diagrams, demo GIFs
-└── README.md                 # Project summary (this file)
+### 🧾 Repository Structure
+
+- **docs/** → Documentation (methodology, model comparison)  
+- **results/** → Visuals, performance summaries  
+- **media/** → Diagrams, demo GIFs  
+- **README.md** → Project summary (this file)
+
 
 **⚠️ Research Notice**
 
